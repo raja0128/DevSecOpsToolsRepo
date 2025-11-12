@@ -8,6 +8,11 @@ public class B {
 		int a = 10;
 		int b = 20;
 		System.out.println("Result is : " + (a+b));
+		
+		
+		int c = 40;
+		int d = 50;
+		System.out.println("Result is " + (c-d));
 	
 	}
 }
